@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarRental.cs", "CarRental.cs\CarRental.cs.csproj", "{D964E423-8389-4C35-89B0-B3AFB96EAEA5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D964E423-8389-4C35-89B0-B3AFB96EAEA5}.Debug|x86.ActiveCfg = Debug|x86
+		{D964E423-8389-4C35-89B0-B3AFB96EAEA5}.Debug|x86.Build.0 = Debug|x86
+		{D964E423-8389-4C35-89B0-B3AFB96EAEA5}.Release|x86.ActiveCfg = Release|x86
+		{D964E423-8389-4C35-89B0-B3AFB96EAEA5}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
