@@ -1,0 +1,5 @@
+C:\Users\Bram\documents\visual studio 2010\Projects\BookDemo2.cs\BookDemo2.cs\bin\Debug\BookDemo2.cs.exe
+C:\Users\Bram\documents\visual studio 2010\Projects\BookDemo2.cs\BookDemo2.cs\bin\Debug\BookDemo2.cs.pdb
+C:\Users\Bram\documents\visual studio 2010\Projects\BookDemo2.cs\BookDemo2.cs\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Bram\documents\visual studio 2010\Projects\BookDemo2.cs\BookDemo2.cs\obj\x86\Debug\BookDemo2.cs.exe
+C:\Users\Bram\documents\visual studio 2010\Projects\BookDemo2.cs\BookDemo2.cs\obj\x86\Debug\BookDemo2.cs.pdb

@@ -1,0 +1,5 @@
+C:\Users\Bram\documents\visual studio 2010\Projects\BookQuery2.cs\BookQuery2.cs\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Bram\documents\visual studio 2010\Projects\BookQuery2.cs\BookQuery2.cs\bin\Debug\BookQuery2.cs.exe
+C:\Users\Bram\documents\visual studio 2010\Projects\BookQuery2.cs\BookQuery2.cs\bin\Debug\BookQuery2.cs.pdb
+C:\Users\Bram\documents\visual studio 2010\Projects\BookQuery2.cs\BookQuery2.cs\obj\x86\Debug\BookQuery2.cs.exe
+C:\Users\Bram\documents\visual studio 2010\Projects\BookQuery2.cs\BookQuery2.cs\obj\x86\Debug\BookQuery2.cs.pdb

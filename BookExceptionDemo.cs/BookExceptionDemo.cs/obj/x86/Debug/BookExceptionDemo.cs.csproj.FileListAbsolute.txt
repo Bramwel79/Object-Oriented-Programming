@@ -1,0 +1,10 @@
+C:\Users\Bram\AppData\Local\Temporary Projects\BookExceptionDemo.cs\bin\Debug\BookExceptionDemo.cs.exe
+C:\Users\Bram\AppData\Local\Temporary Projects\BookExceptionDemo.cs\bin\Debug\BookExceptionDemo.cs.pdb
+C:\Users\Bram\AppData\Local\Temporary Projects\BookExceptionDemo.cs\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Bram\AppData\Local\Temporary Projects\BookExceptionDemo.cs\obj\x86\Debug\BookExceptionDemo.cs.exe
+C:\Users\Bram\AppData\Local\Temporary Projects\BookExceptionDemo.cs\obj\x86\Debug\BookExceptionDemo.cs.pdb
+C:\Users\Bram\documents\visual studio 2010\Projects\BookExceptionDemo.cs\BookExceptionDemo.cs\obj\x86\Debug\BookExceptionDemo.cs.exe
+C:\Users\Bram\documents\visual studio 2010\Projects\BookExceptionDemo.cs\BookExceptionDemo.cs\obj\x86\Debug\BookExceptionDemo.cs.pdb
+C:\Users\Bram\documents\visual studio 2010\Projects\BookExceptionDemo.cs\BookExceptionDemo.cs\bin\Debug\BookExceptionDemo.cs.exe
+C:\Users\Bram\documents\visual studio 2010\Projects\BookExceptionDemo.cs\BookExceptionDemo.cs\bin\Debug\BookExceptionDemo.cs.pdb
+C:\Users\Bram\documents\visual studio 2010\Projects\BookExceptionDemo.cs\BookExceptionDemo.cs\obj\x86\Debug\ResolveAssemblyReference.cache
