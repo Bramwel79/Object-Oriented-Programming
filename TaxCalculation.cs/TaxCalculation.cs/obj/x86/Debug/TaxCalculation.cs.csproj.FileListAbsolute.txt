@@ -1,0 +1,5 @@
+C:\Users\Bram\documents\visual studio 2010\Projects\TaxCalculation.cs\TaxCalculation.cs\bin\Debug\TaxCalculation.cs.exe
+C:\Users\Bram\documents\visual studio 2010\Projects\TaxCalculation.cs\TaxCalculation.cs\bin\Debug\TaxCalculation.cs.pdb
+C:\Users\Bram\documents\visual studio 2010\Projects\TaxCalculation.cs\TaxCalculation.cs\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Bram\documents\visual studio 2010\Projects\TaxCalculation.cs\TaxCalculation.cs\obj\x86\Debug\TaxCalculation.cs.exe
+C:\Users\Bram\documents\visual studio 2010\Projects\TaxCalculation.cs\TaxCalculation.cs\obj\x86\Debug\TaxCalculation.cs.pdb

@@ -1,0 +1,5 @@
+C:\Users\Bram\documents\visual studio 2010\Projects\TestFileAndDirectory.cs\TestFileAndDirectory.cs\bin\Debug\TestFileAndDirectory.cs.exe
+C:\Users\Bram\documents\visual studio 2010\Projects\TestFileAndDirectory.cs\TestFileAndDirectory.cs\bin\Debug\TestFileAndDirectory.cs.pdb
+C:\Users\Bram\documents\visual studio 2010\Projects\TestFileAndDirectory.cs\TestFileAndDirectory.cs\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Bram\documents\visual studio 2010\Projects\TestFileAndDirectory.cs\TestFileAndDirectory.cs\obj\x86\Debug\TestFileAndDirectory.cs.exe
+C:\Users\Bram\documents\visual studio 2010\Projects\TestFileAndDirectory.cs\TestFileAndDirectory.cs\obj\x86\Debug\TestFileAndDirectory.cs.pdb

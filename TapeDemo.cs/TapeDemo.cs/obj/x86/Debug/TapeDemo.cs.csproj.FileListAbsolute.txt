@@ -1,0 +1,5 @@
+C:\Users\Bram\documents\visual studio 2010\Projects\TapeDemo.cs\TapeDemo.cs\bin\Debug\TapeDemo.cs.exe
+C:\Users\Bram\documents\visual studio 2010\Projects\TapeDemo.cs\TapeDemo.cs\bin\Debug\TapeDemo.cs.pdb
+C:\Users\Bram\documents\visual studio 2010\Projects\TapeDemo.cs\TapeDemo.cs\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Bram\documents\visual studio 2010\Projects\TapeDemo.cs\TapeDemo.cs\obj\x86\Debug\TapeDemo.cs.exe
+C:\Users\Bram\documents\visual studio 2010\Projects\TapeDemo.cs\TapeDemo.cs\obj\x86\Debug\TapeDemo.cs.pdb

@@ -1,0 +1,10 @@
+C:\Users\Bram\AppData\Local\Temporary Projects\TeeBall.cs\bin\Debug\TeeBall.cs.exe
+C:\Users\Bram\AppData\Local\Temporary Projects\TeeBall.cs\bin\Debug\TeeBall.cs.pdb
+C:\Users\Bram\AppData\Local\Temporary Projects\TeeBall.cs\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Bram\AppData\Local\Temporary Projects\TeeBall.cs\obj\x86\Debug\TeeBall.cs.exe
+C:\Users\Bram\AppData\Local\Temporary Projects\TeeBall.cs\obj\x86\Debug\TeeBall.cs.pdb
+C:\Users\Bram\Documents\Visual Studio 2010\Projects\TeeBall.cs\TeeBall.cs\obj\x86\Debug\TeeBall.cs.exe
+C:\Users\Bram\Documents\Visual Studio 2010\Projects\TeeBall.cs\TeeBall.cs\obj\x86\Debug\TeeBall.cs.pdb
+C:\Users\Bram\Documents\Visual Studio 2010\Projects\TeeBall.cs\TeeBall.cs\bin\Debug\TeeBall.cs.exe
+C:\Users\Bram\Documents\Visual Studio 2010\Projects\TeeBall.cs\TeeBall.cs\bin\Debug\TeeBall.cs.pdb
+C:\Users\Bram\Documents\Visual Studio 2010\Projects\TeeBall.cs\TeeBall.cs\obj\x86\Debug\ResolveAssemblyReference.cache
