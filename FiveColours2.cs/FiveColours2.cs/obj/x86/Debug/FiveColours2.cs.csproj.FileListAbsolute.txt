@@ -1,0 +1,9 @@
+C:\Users\Bram\documents\visual studio 2010\Projects\FiveColours2.cs\FiveColours2.cs\bin\Debug\FiveColours2.cs.exe
+C:\Users\Bram\documents\visual studio 2010\Projects\FiveColours2.cs\FiveColours2.cs\bin\Debug\FiveColours2.cs.pdb
+C:\Users\Bram\documents\visual studio 2010\Projects\FiveColours2.cs\FiveColours2.cs\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Bram\documents\visual studio 2010\Projects\FiveColours2.cs\FiveColours2.cs\obj\x86\Debug\FiveColours2.cs.FiveColours2.resources
+C:\Users\Bram\documents\visual studio 2010\Projects\FiveColours2.cs\FiveColours2.cs\obj\x86\Debug\FiveColours2.cs.Properties.Resources.resources
+C:\Users\Bram\documents\visual studio 2010\Projects\FiveColours2.cs\FiveColours2.cs\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Bram\documents\visual studio 2010\Projects\FiveColours2.cs\FiveColours2.cs\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Bram\documents\visual studio 2010\Projects\FiveColours2.cs\FiveColours2.cs\obj\x86\Debug\FiveColours2.cs.exe
+C:\Users\Bram\documents\visual studio 2010\Projects\FiveColours2.cs\FiveColours2.cs\obj\x86\Debug\FiveColours2.cs.pdb

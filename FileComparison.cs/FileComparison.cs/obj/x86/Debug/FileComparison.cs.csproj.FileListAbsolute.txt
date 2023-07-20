@@ -1,0 +1,5 @@
+C:\Users\Bram\documents\visual studio 2010\Projects\FileComparison.cs\FileComparison.cs\bin\Debug\FileComparison.cs.exe
+C:\Users\Bram\documents\visual studio 2010\Projects\FileComparison.cs\FileComparison.cs\bin\Debug\FileComparison.cs.pdb
+C:\Users\Bram\documents\visual studio 2010\Projects\FileComparison.cs\FileComparison.cs\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Bram\documents\visual studio 2010\Projects\FileComparison.cs\FileComparison.cs\obj\x86\Debug\FileComparison.cs.exe
+C:\Users\Bram\documents\visual studio 2010\Projects\FileComparison.cs\FileComparison.cs\obj\x86\Debug\FileComparison.cs.pdb
