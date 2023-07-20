@@ -1,0 +1,5 @@
+C:\Users\Bram\documents\visual studio 2010\Projects\PlacingOrder2.cs\PlacingOrder2.cs\bin\Debug\PlacingOrder2.cs.exe
+C:\Users\Bram\documents\visual studio 2010\Projects\PlacingOrder2.cs\PlacingOrder2.cs\bin\Debug\PlacingOrder2.cs.pdb
+C:\Users\Bram\documents\visual studio 2010\Projects\PlacingOrder2.cs\PlacingOrder2.cs\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Bram\documents\visual studio 2010\Projects\PlacingOrder2.cs\PlacingOrder2.cs\obj\x86\Debug\PlacingOrder2.cs.exe
+C:\Users\Bram\documents\visual studio 2010\Projects\PlacingOrder2.cs\PlacingOrder2.cs\obj\x86\Debug\PlacingOrder2.cs.pdb

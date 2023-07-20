@@ -1,0 +1,5 @@
+C:\Users\Bram\AppData\Local\Temporary Projects\OverloadedTriples.cs\bin\Debug\OverloadedTriples.cs.exe
+C:\Users\Bram\AppData\Local\Temporary Projects\OverloadedTriples.cs\bin\Debug\OverloadedTriples.cs.pdb
+C:\Users\Bram\AppData\Local\Temporary Projects\OverloadedTriples.cs\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Bram\AppData\Local\Temporary Projects\OverloadedTriples.cs\obj\x86\Debug\OverloadedTriples.cs.exe
+C:\Users\Bram\AppData\Local\Temporary Projects\OverloadedTriples.cs\obj\x86\Debug\OverloadedTriples.cs.pdb

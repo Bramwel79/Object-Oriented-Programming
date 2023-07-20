@@ -1,0 +1,5 @@
+C:\Users\Bram\documents\visual studio 2010\Projects\Polygon.cs\Polygon.cs\bin\Debug\Polygon.cs.exe
+C:\Users\Bram\documents\visual studio 2010\Projects\Polygon.cs\Polygon.cs\bin\Debug\Polygon.cs.pdb
+C:\Users\Bram\documents\visual studio 2010\Projects\Polygon.cs\Polygon.cs\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Bram\documents\visual studio 2010\Projects\Polygon.cs\Polygon.cs\obj\x86\Debug\Polygon.cs.exe
+C:\Users\Bram\documents\visual studio 2010\Projects\Polygon.cs\Polygon.cs\obj\x86\Debug\Polygon.cs.pdb
