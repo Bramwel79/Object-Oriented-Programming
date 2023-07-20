@@ -1,0 +1,5 @@
+C:\Users\Bram\documents\visual studio 2010\Projects\AccessSomeNames.cs\AccessSomeNames.cs\bin\Debug\AccessSomeNames.cs.exe
+C:\Users\Bram\documents\visual studio 2010\Projects\AccessSomeNames.cs\AccessSomeNames.cs\bin\Debug\AccessSomeNames.cs.pdb
+C:\Users\Bram\documents\visual studio 2010\Projects\AccessSomeNames.cs\AccessSomeNames.cs\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Bram\documents\visual studio 2010\Projects\AccessSomeNames.cs\AccessSomeNames.cs\obj\x86\Debug\AccessSomeNames.cs.exe
+C:\Users\Bram\documents\visual studio 2010\Projects\AccessSomeNames.cs\AccessSomeNames.cs\obj\x86\Debug\AccessSomeNames.cs.pdb
