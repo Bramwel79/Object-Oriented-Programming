@@ -1,0 +1,10 @@
+C:\Users\Bram\AppData\Local\Temporary Projects\DemoSquares.cs\bin\Debug\DemoSquares.cs.exe
+C:\Users\Bram\AppData\Local\Temporary Projects\DemoSquares.cs\bin\Debug\DemoSquares.cs.pdb
+C:\Users\Bram\AppData\Local\Temporary Projects\DemoSquares.cs\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Bram\AppData\Local\Temporary Projects\DemoSquares.cs\obj\x86\Debug\DemoSquares.cs.exe
+C:\Users\Bram\AppData\Local\Temporary Projects\DemoSquares.cs\obj\x86\Debug\DemoSquares.cs.pdb
+C:\Users\Bram\documents\visual studio 2010\Projects\DemoSquares.cs\DemoSquares.cs\obj\x86\Debug\DemoSquares.cs.exe
+C:\Users\Bram\documents\visual studio 2010\Projects\DemoSquares.cs\DemoSquares.cs\obj\x86\Debug\DemoSquares.cs.pdb
+C:\Users\Bram\documents\visual studio 2010\Projects\DemoSquares.cs\DemoSquares.cs\bin\Debug\DemoSquares.cs.exe
+C:\Users\Bram\documents\visual studio 2010\Projects\DemoSquares.cs\DemoSquares.cs\bin\Debug\DemoSquares.cs.pdb
+C:\Users\Bram\documents\visual studio 2010\Projects\DemoSquares.cs\DemoSquares.cs\obj\x86\Debug\ResolveAssemblyReference.cache

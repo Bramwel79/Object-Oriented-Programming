@@ -1,0 +1,5 @@
+C:\Users\Bram\documents\visual studio 2010\Projects\DemoScouts.cs\DemoScouts.cs\bin\Debug\DemoScouts.cs.exe
+C:\Users\Bram\documents\visual studio 2010\Projects\DemoScouts.cs\DemoScouts.cs\bin\Debug\DemoScouts.cs.pdb
+C:\Users\Bram\documents\visual studio 2010\Projects\DemoScouts.cs\DemoScouts.cs\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Bram\documents\visual studio 2010\Projects\DemoScouts.cs\DemoScouts.cs\obj\x86\Debug\DemoScouts.cs.exe
+C:\Users\Bram\documents\visual studio 2010\Projects\DemoScouts.cs\DemoScouts.cs\obj\x86\Debug\DemoScouts.cs.pdb
