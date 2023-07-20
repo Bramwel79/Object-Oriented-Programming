@@ -1,0 +1,5 @@
+C:\Users\Bram\documents\visual studio 2010\Projects\SplitAlphabet.cs\SplitAlphabet.cs\bin\Debug\SplitAlphabet.cs.exe
+C:\Users\Bram\documents\visual studio 2010\Projects\SplitAlphabet.cs\SplitAlphabet.cs\bin\Debug\SplitAlphabet.cs.pdb
+C:\Users\Bram\documents\visual studio 2010\Projects\SplitAlphabet.cs\SplitAlphabet.cs\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Bram\documents\visual studio 2010\Projects\SplitAlphabet.cs\SplitAlphabet.cs\obj\x86\Debug\SplitAlphabet.cs.exe
+C:\Users\Bram\documents\visual studio 2010\Projects\SplitAlphabet.cs\SplitAlphabet.cs\obj\x86\Debug\SplitAlphabet.cs.pdb

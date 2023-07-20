@@ -1,0 +1,10 @@
+C:\Users\Bram\AppData\Local\Temporary Projects\SmallAndLarge.cs\bin\Debug\SmallAndLarge.cs.exe
+C:\Users\Bram\AppData\Local\Temporary Projects\SmallAndLarge.cs\bin\Debug\SmallAndLarge.cs.pdb
+C:\Users\Bram\AppData\Local\Temporary Projects\SmallAndLarge.cs\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Bram\AppData\Local\Temporary Projects\SmallAndLarge.cs\obj\x86\Debug\SmallAndLarge.cs.exe
+C:\Users\Bram\AppData\Local\Temporary Projects\SmallAndLarge.cs\obj\x86\Debug\SmallAndLarge.cs.pdb
+C:\Users\Bram\documents\visual studio 2010\Projects\SmallAndLarge.cs\SmallAndLarge.cs\obj\x86\Debug\SmallAndLarge.cs.exe
+C:\Users\Bram\documents\visual studio 2010\Projects\SmallAndLarge.cs\SmallAndLarge.cs\obj\x86\Debug\SmallAndLarge.cs.pdb
+C:\Users\Bram\documents\visual studio 2010\Projects\SmallAndLarge.cs\SmallAndLarge.cs\bin\Debug\SmallAndLarge.cs.exe
+C:\Users\Bram\documents\visual studio 2010\Projects\SmallAndLarge.cs\SmallAndLarge.cs\bin\Debug\SmallAndLarge.cs.pdb
+C:\Users\Bram\documents\visual studio 2010\Projects\SmallAndLarge.cs\SmallAndLarge.cs\obj\x86\Debug\ResolveAssemblyReference.cache
