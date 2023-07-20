@@ -1,0 +1,18 @@
+C:\Users\Bram\AppData\Local\Temporary Projects\FontSelector.cs\bin\Debug\FontSelector.cs.exe
+C:\Users\Bram\AppData\Local\Temporary Projects\FontSelector.cs\bin\Debug\FontSelector.cs.pdb
+C:\Users\Bram\AppData\Local\Temporary Projects\FontSelector.cs\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Bram\AppData\Local\Temporary Projects\FontSelector.cs\obj\x86\Debug\FontSelector.cs.FontSelector.resources
+C:\Users\Bram\AppData\Local\Temporary Projects\FontSelector.cs\obj\x86\Debug\FontSelector.cs.Properties.Resources.resources
+C:\Users\Bram\AppData\Local\Temporary Projects\FontSelector.cs\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Bram\AppData\Local\Temporary Projects\FontSelector.cs\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Bram\AppData\Local\Temporary Projects\FontSelector.cs\obj\x86\Debug\FontSelector.cs.exe
+C:\Users\Bram\AppData\Local\Temporary Projects\FontSelector.cs\obj\x86\Debug\FontSelector.cs.pdb
+C:\Users\Bram\documents\visual studio 2010\Projects\FontSelector.cs\FontSelector.cs\obj\x86\Debug\FontSelector.cs.exe
+C:\Users\Bram\documents\visual studio 2010\Projects\FontSelector.cs\FontSelector.cs\obj\x86\Debug\FontSelector.cs.pdb
+C:\Users\Bram\documents\visual studio 2010\Projects\FontSelector.cs\FontSelector.cs\bin\Debug\FontSelector.cs.exe
+C:\Users\Bram\documents\visual studio 2010\Projects\FontSelector.cs\FontSelector.cs\bin\Debug\FontSelector.cs.pdb
+C:\Users\Bram\documents\visual studio 2010\Projects\FontSelector.cs\FontSelector.cs\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Bram\documents\visual studio 2010\Projects\FontSelector.cs\FontSelector.cs\obj\x86\Debug\FontSelector.cs.FontSelector.resources
+C:\Users\Bram\documents\visual studio 2010\Projects\FontSelector.cs\FontSelector.cs\obj\x86\Debug\FontSelector.cs.Properties.Resources.resources
+C:\Users\Bram\documents\visual studio 2010\Projects\FontSelector.cs\FontSelector.cs\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Bram\documents\visual studio 2010\Projects\FontSelector.cs\FontSelector.cs\obj\x86\Debug\GenerateResource.write.1.tlog
