@@ -1,0 +1,10 @@
+C:\Users\Bram\AppData\Local\Temporary Projects\Desks.cs\bin\Debug\Desks.cs.exe
+C:\Users\Bram\AppData\Local\Temporary Projects\Desks.cs\bin\Debug\Desks.cs.pdb
+C:\Users\Bram\AppData\Local\Temporary Projects\Desks.cs\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Bram\AppData\Local\Temporary Projects\Desks.cs\obj\x86\Debug\Desks.cs.exe
+C:\Users\Bram\AppData\Local\Temporary Projects\Desks.cs\obj\x86\Debug\Desks.cs.pdb
+C:\Users\Bram\documents\visual studio 2010\Projects\Desks.cs\Desks.cs\obj\x86\Debug\Desks.cs.exe
+C:\Users\Bram\documents\visual studio 2010\Projects\Desks.cs\Desks.cs\obj\x86\Debug\Desks.cs.pdb
+C:\Users\Bram\documents\visual studio 2010\Projects\Desks.cs\Desks.cs\bin\Debug\Desks.cs.exe
+C:\Users\Bram\documents\visual studio 2010\Projects\Desks.cs\Desks.cs\bin\Debug\Desks.cs.pdb
+C:\Users\Bram\documents\visual studio 2010\Projects\Desks.cs\Desks.cs\obj\x86\Debug\ResolveAssemblyReference.cache

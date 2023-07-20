@@ -1,0 +1,5 @@
+C:\Users\Bram\documents\visual studio 2010\Projects\DiscountDelegateDemo2.cs\DiscountDelegateDemo2.cs\bin\Debug\DiscountDelegateDemo2.cs.exe
+C:\Users\Bram\documents\visual studio 2010\Projects\DiscountDelegateDemo2.cs\DiscountDelegateDemo2.cs\bin\Debug\DiscountDelegateDemo2.cs.pdb
+C:\Users\Bram\documents\visual studio 2010\Projects\DiscountDelegateDemo2.cs\DiscountDelegateDemo2.cs\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Bram\documents\visual studio 2010\Projects\DiscountDelegateDemo2.cs\DiscountDelegateDemo2.cs\obj\x86\Debug\DiscountDelegateDemo2.cs.exe
+C:\Users\Bram\documents\visual studio 2010\Projects\DiscountDelegateDemo2.cs\DiscountDelegateDemo2.cs\obj\x86\Debug\DiscountDelegateDemo2.cs.pdb

@@ -1,0 +1,5 @@
+C:\Users\Bram\documents\visual studio 2010\Projects\Desks2.cs1\Desks2.cs1\bin\Debug\Desks2.cs1.exe
+C:\Users\Bram\documents\visual studio 2010\Projects\Desks2.cs1\Desks2.cs1\bin\Debug\Desks2.cs1.pdb
+C:\Users\Bram\documents\visual studio 2010\Projects\Desks2.cs1\Desks2.cs1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Bram\documents\visual studio 2010\Projects\Desks2.cs1\Desks2.cs1\obj\x86\Debug\Desks2.cs1.exe
+C:\Users\Bram\documents\visual studio 2010\Projects\Desks2.cs1\Desks2.cs1\obj\x86\Debug\Desks2.cs1.pdb
