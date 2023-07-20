@@ -1,0 +1,5 @@
+C:\Users\Bram\documents\visual studio 2010\Projects\ComputeWeeklySalary.cs\ComputeWeeklySalary.cs\bin\Debug\ComputeWeeklySalary.cs.exe
+C:\Users\Bram\documents\visual studio 2010\Projects\ComputeWeeklySalary.cs\ComputeWeeklySalary.cs\bin\Debug\ComputeWeeklySalary.cs.pdb
+C:\Users\Bram\documents\visual studio 2010\Projects\ComputeWeeklySalary.cs\ComputeWeeklySalary.cs\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Bram\documents\visual studio 2010\Projects\ComputeWeeklySalary.cs\ComputeWeeklySalary.cs\obj\x86\Debug\ComputeWeeklySalary.cs.exe
+C:\Users\Bram\documents\visual studio 2010\Projects\ComputeWeeklySalary.cs\ComputeWeeklySalary.cs\obj\x86\Debug\ComputeWeeklySalary.cs.pdb
