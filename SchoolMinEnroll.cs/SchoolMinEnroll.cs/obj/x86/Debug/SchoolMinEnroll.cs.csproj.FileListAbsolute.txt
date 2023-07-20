@@ -1,0 +1,10 @@
+C:\Users\Bram\AppData\Local\Temporary Projects\SchoolMinEnroll.cs\bin\Debug\SchoolMinEnroll.cs.exe
+C:\Users\Bram\AppData\Local\Temporary Projects\SchoolMinEnroll.cs\bin\Debug\SchoolMinEnroll.cs.pdb
+C:\Users\Bram\AppData\Local\Temporary Projects\SchoolMinEnroll.cs\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Bram\AppData\Local\Temporary Projects\SchoolMinEnroll.cs\obj\x86\Debug\SchoolMinEnroll.cs.exe
+C:\Users\Bram\AppData\Local\Temporary Projects\SchoolMinEnroll.cs\obj\x86\Debug\SchoolMinEnroll.cs.pdb
+C:\Users\Bram\documents\visual studio 2010\Projects\SchoolMinEnroll.cs\SchoolMinEnroll.cs\obj\x86\Debug\SchoolMinEnroll.cs.exe
+C:\Users\Bram\documents\visual studio 2010\Projects\SchoolMinEnroll.cs\SchoolMinEnroll.cs\obj\x86\Debug\SchoolMinEnroll.cs.pdb
+C:\Users\Bram\documents\visual studio 2010\Projects\SchoolMinEnroll.cs\SchoolMinEnroll.cs\bin\Debug\SchoolMinEnroll.cs.exe
+C:\Users\Bram\documents\visual studio 2010\Projects\SchoolMinEnroll.cs\SchoolMinEnroll.cs\bin\Debug\SchoolMinEnroll.cs.pdb
+C:\Users\Bram\documents\visual studio 2010\Projects\SchoolMinEnroll.cs\SchoolMinEnroll.cs\obj\x86\Debug\ResolveAssemblyReference.cache
