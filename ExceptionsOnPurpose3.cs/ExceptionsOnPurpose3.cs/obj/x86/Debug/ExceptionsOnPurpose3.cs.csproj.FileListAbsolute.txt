@@ -1,0 +1,5 @@
+C:\Users\Bram\documents\visual studio 2010\Projects\ExceptionsOnPurpose3.cs\ExceptionsOnPurpose3.cs\bin\Debug\ExceptionsOnPurpose3.cs.exe
+C:\Users\Bram\documents\visual studio 2010\Projects\ExceptionsOnPurpose3.cs\ExceptionsOnPurpose3.cs\bin\Debug\ExceptionsOnPurpose3.cs.pdb
+C:\Users\Bram\documents\visual studio 2010\Projects\ExceptionsOnPurpose3.cs\ExceptionsOnPurpose3.cs\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Bram\documents\visual studio 2010\Projects\ExceptionsOnPurpose3.cs\ExceptionsOnPurpose3.cs\obj\x86\Debug\ExceptionsOnPurpose3.cs.exe
+C:\Users\Bram\documents\visual studio 2010\Projects\ExceptionsOnPurpose3.cs\ExceptionsOnPurpose3.cs\obj\x86\Debug\ExceptionsOnPurpose3.cs.pdb

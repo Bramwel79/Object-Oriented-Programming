@@ -1,0 +1,5 @@
+C:\Users\Bram\documents\visual studio 2010\Projects\EmployeeExceptionDemo.cs\EmployeeExceptionDemo.cs\bin\Debug\EmployeeExceptionDemo.cs.exe
+C:\Users\Bram\documents\visual studio 2010\Projects\EmployeeExceptionDemo.cs\EmployeeExceptionDemo.cs\bin\Debug\EmployeeExceptionDemo.cs.pdb
+C:\Users\Bram\documents\visual studio 2010\Projects\EmployeeExceptionDemo.cs\EmployeeExceptionDemo.cs\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Bram\documents\visual studio 2010\Projects\EmployeeExceptionDemo.cs\EmployeeExceptionDemo.cs\obj\x86\Debug\EmployeeExceptionDemo.cs.exe
+C:\Users\Bram\documents\visual studio 2010\Projects\EmployeeExceptionDemo.cs\EmployeeExceptionDemo.cs\obj\x86\Debug\EmployeeExceptionDemo.cs.pdb

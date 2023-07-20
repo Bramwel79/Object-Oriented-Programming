@@ -1,0 +1,9 @@
+C:\Users\Bram\documents\visual studio 2010\Projects\ExceptionHandlingDemoGUI.cs\ExceptionHandlingDemoGUI.cs\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Bram\documents\visual studio 2010\Projects\ExceptionHandlingDemoGUI.cs\ExceptionHandlingDemoGUI.cs\obj\x86\Debug\ExceptionHandlingDemoGUI.cs.Form1.resources
+C:\Users\Bram\documents\visual studio 2010\Projects\ExceptionHandlingDemoGUI.cs\ExceptionHandlingDemoGUI.cs\obj\x86\Debug\ExceptionHandlingDemoGUI.cs.Properties.Resources.resources
+C:\Users\Bram\documents\visual studio 2010\Projects\ExceptionHandlingDemoGUI.cs\ExceptionHandlingDemoGUI.cs\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Bram\documents\visual studio 2010\Projects\ExceptionHandlingDemoGUI.cs\ExceptionHandlingDemoGUI.cs\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Bram\documents\visual studio 2010\Projects\ExceptionHandlingDemoGUI.cs\ExceptionHandlingDemoGUI.cs\bin\Debug\ExceptionHandlingDemoGUI.cs.exe
+C:\Users\Bram\documents\visual studio 2010\Projects\ExceptionHandlingDemoGUI.cs\ExceptionHandlingDemoGUI.cs\bin\Debug\ExceptionHandlingDemoGUI.cs.pdb
+C:\Users\Bram\documents\visual studio 2010\Projects\ExceptionHandlingDemoGUI.cs\ExceptionHandlingDemoGUI.cs\obj\x86\Debug\ExceptionHandlingDemoGUI.cs.exe
+C:\Users\Bram\documents\visual studio 2010\Projects\ExceptionHandlingDemoGUI.cs\ExceptionHandlingDemoGUI.cs\obj\x86\Debug\ExceptionHandlingDemoGUI.cs.pdb
