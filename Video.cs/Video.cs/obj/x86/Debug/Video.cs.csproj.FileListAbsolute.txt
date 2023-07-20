@@ -1,0 +1,9 @@
+C:\Users\Bram\documents\visual studio 2010\Projects\Video.cs\Video.cs\bin\Debug\Video.cs.exe
+C:\Users\Bram\documents\visual studio 2010\Projects\Video.cs\Video.cs\bin\Debug\Video.cs.pdb
+C:\Users\Bram\documents\visual studio 2010\Projects\Video.cs\Video.cs\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Bram\documents\visual studio 2010\Projects\Video.cs\Video.cs\obj\x86\Debug\Video.cs.Properties.Resources.resources
+C:\Users\Bram\documents\visual studio 2010\Projects\Video.cs\Video.cs\obj\x86\Debug\Video.cs.Video.resources
+C:\Users\Bram\documents\visual studio 2010\Projects\Video.cs\Video.cs\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Bram\documents\visual studio 2010\Projects\Video.cs\Video.cs\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Bram\documents\visual studio 2010\Projects\Video.cs\Video.cs\obj\x86\Debug\Video.cs.exe
+C:\Users\Bram\documents\visual studio 2010\Projects\Video.cs\Video.cs\obj\x86\Debug\Video.cs.pdb
