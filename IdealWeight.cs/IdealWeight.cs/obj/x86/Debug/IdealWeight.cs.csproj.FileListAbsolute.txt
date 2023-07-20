@@ -1,0 +1,9 @@
+C:\Users\Bram\documents\visual studio 2010\Projects\IdealWeight.cs\IdealWeight.cs\bin\Debug\IdealWeight.cs.exe
+C:\Users\Bram\documents\visual studio 2010\Projects\IdealWeight.cs\IdealWeight.cs\bin\Debug\IdealWeight.cs.pdb
+C:\Users\Bram\documents\visual studio 2010\Projects\IdealWeight.cs\IdealWeight.cs\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Bram\documents\visual studio 2010\Projects\IdealWeight.cs\IdealWeight.cs\obj\x86\Debug\IdealWeight.cs.Properties.Resources.resources
+C:\Users\Bram\documents\visual studio 2010\Projects\IdealWeight.cs\IdealWeight.cs\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Bram\documents\visual studio 2010\Projects\IdealWeight.cs\IdealWeight.cs\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Bram\documents\visual studio 2010\Projects\IdealWeight.cs\IdealWeight.cs\obj\x86\Debug\IdealWeight.cs.exe
+C:\Users\Bram\documents\visual studio 2010\Projects\IdealWeight.cs\IdealWeight.cs\obj\x86\Debug\IdealWeight.cs.pdb
+C:\Users\Bram\documents\visual studio 2010\Projects\IdealWeight.cs\IdealWeight.cs\obj\x86\Debug\IdealWeight.cs.frmMain.resources

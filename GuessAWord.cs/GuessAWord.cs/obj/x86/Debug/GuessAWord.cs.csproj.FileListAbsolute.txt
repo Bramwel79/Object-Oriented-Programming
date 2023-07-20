@@ -1,0 +1,10 @@
+C:\Users\Bram\AppData\Local\Temporary Projects\GuessAWord.cs\bin\Debug\GuessAWord.cs.exe
+C:\Users\Bram\AppData\Local\Temporary Projects\GuessAWord.cs\bin\Debug\GuessAWord.cs.pdb
+C:\Users\Bram\AppData\Local\Temporary Projects\GuessAWord.cs\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Bram\AppData\Local\Temporary Projects\GuessAWord.cs\obj\x86\Debug\GuessAWord.cs.exe
+C:\Users\Bram\AppData\Local\Temporary Projects\GuessAWord.cs\obj\x86\Debug\GuessAWord.cs.pdb
+C:\Users\Bram\documents\visual studio 2010\Projects\GuessAWord.cs\GuessAWord.cs\obj\x86\Debug\GuessAWord.cs.exe
+C:\Users\Bram\documents\visual studio 2010\Projects\GuessAWord.cs\GuessAWord.cs\obj\x86\Debug\GuessAWord.cs.pdb
+C:\Users\Bram\Documents\Visual Studio 2010\Projects\GuessAWord.cs\GuessAWord.cs\bin\Debug\GuessAWord.cs.exe
+C:\Users\Bram\Documents\Visual Studio 2010\Projects\GuessAWord.cs\GuessAWord.cs\bin\Debug\GuessAWord.cs.pdb
+C:\Users\Bram\Documents\Visual Studio 2010\Projects\GuessAWord.cs\GuessAWord.cs\obj\x86\Debug\ResolveAssemblyReference.cache
