@@ -1,0 +1,9 @@
+C:\Users\Bram\documents\visual studio 2010\Projects\NinasCookieSource.cs\NinasCookieSource.cs\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Bram\documents\visual studio 2010\Projects\NinasCookieSource.cs\NinasCookieSource.cs\obj\x86\Debug\NinasCookieSource.cs.Main.resources
+C:\Users\Bram\documents\visual studio 2010\Projects\NinasCookieSource.cs\NinasCookieSource.cs\obj\x86\Debug\NinasCookieSource.cs.Properties.Resources.resources
+C:\Users\Bram\documents\visual studio 2010\Projects\NinasCookieSource.cs\NinasCookieSource.cs\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Bram\documents\visual studio 2010\Projects\NinasCookieSource.cs\NinasCookieSource.cs\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Bram\documents\visual studio 2010\Projects\NinasCookieSource.cs\NinasCookieSource.cs\bin\Debug\NinasCookieSource.cs.exe
+C:\Users\Bram\documents\visual studio 2010\Projects\NinasCookieSource.cs\NinasCookieSource.cs\bin\Debug\NinasCookieSource.cs.pdb
+C:\Users\Bram\documents\visual studio 2010\Projects\NinasCookieSource.cs\NinasCookieSource.cs\obj\x86\Debug\NinasCookieSource.cs.exe
+C:\Users\Bram\documents\visual studio 2010\Projects\NinasCookieSource.cs\NinasCookieSource.cs\obj\x86\Debug\NinasCookieSource.cs.pdb

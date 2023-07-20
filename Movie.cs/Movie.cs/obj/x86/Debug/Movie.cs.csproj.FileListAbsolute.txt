@@ -1,0 +1,5 @@
+C:\Users\Bram\documents\visual studio 2010\Projects\Movie.cs\Movie.cs\bin\Debug\Movie.cs.exe
+C:\Users\Bram\documents\visual studio 2010\Projects\Movie.cs\Movie.cs\bin\Debug\Movie.cs.pdb
+C:\Users\Bram\documents\visual studio 2010\Projects\Movie.cs\Movie.cs\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Bram\documents\visual studio 2010\Projects\Movie.cs\Movie.cs\obj\x86\Debug\Movie.cs.exe
+C:\Users\Bram\documents\visual studio 2010\Projects\Movie.cs\Movie.cs\obj\x86\Debug\Movie.cs.pdb
