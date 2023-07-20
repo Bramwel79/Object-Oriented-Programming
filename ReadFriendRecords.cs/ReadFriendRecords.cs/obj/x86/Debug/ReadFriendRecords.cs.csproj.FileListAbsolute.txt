@@ -1,0 +1,5 @@
+C:\Users\Bram\documents\visual studio 2010\Projects\ReadFriendRecords.cs\ReadFriendRecords.cs\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Bram\documents\visual studio 2010\Projects\ReadFriendRecords.cs\ReadFriendRecords.cs\bin\Debug\ReadFriendRecords.cs.exe
+C:\Users\Bram\documents\visual studio 2010\Projects\ReadFriendRecords.cs\ReadFriendRecords.cs\bin\Debug\ReadFriendRecords.cs.pdb
+C:\Users\Bram\documents\visual studio 2010\Projects\ReadFriendRecords.cs\ReadFriendRecords.cs\obj\x86\Debug\ReadFriendRecords.cs.exe
+C:\Users\Bram\documents\visual studio 2010\Projects\ReadFriendRecords.cs\ReadFriendRecords.cs\obj\x86\Debug\ReadFriendRecords.cs.pdb

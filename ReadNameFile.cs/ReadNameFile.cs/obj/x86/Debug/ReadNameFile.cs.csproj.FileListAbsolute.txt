@@ -1,0 +1,5 @@
+C:\Users\Bram\documents\visual studio 2010\Projects\ReadNameFile.cs\ReadNameFile.cs\bin\Debug\ReadNameFile.cs.exe
+C:\Users\Bram\documents\visual studio 2010\Projects\ReadNameFile.cs\ReadNameFile.cs\bin\Debug\ReadNameFile.cs.pdb
+C:\Users\Bram\documents\visual studio 2010\Projects\ReadNameFile.cs\ReadNameFile.cs\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Bram\documents\visual studio 2010\Projects\ReadNameFile.cs\ReadNameFile.cs\obj\x86\Debug\ReadNameFile.cs.exe
+C:\Users\Bram\documents\visual studio 2010\Projects\ReadNameFile.cs\ReadNameFile.cs\obj\x86\Debug\ReadNameFile.cs.pdb

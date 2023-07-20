@@ -1,0 +1,5 @@
+C:\Users\Bram\documents\visual studio 2010\Projects\RecoveringDemo.cs\RecoveringDemo.cs\bin\Debug\RecoveringDemo.cs.exe
+C:\Users\Bram\documents\visual studio 2010\Projects\RecoveringDemo.cs\RecoveringDemo.cs\bin\Debug\RecoveringDemo.cs.pdb
+C:\Users\Bram\documents\visual studio 2010\Projects\RecoveringDemo.cs\RecoveringDemo.cs\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Bram\documents\visual studio 2010\Projects\RecoveringDemo.cs\RecoveringDemo.cs\obj\x86\Debug\RecoveringDemo.cs.exe
+C:\Users\Bram\documents\visual studio 2010\Projects\RecoveringDemo.cs\RecoveringDemo.cs\obj\x86\Debug\RecoveringDemo.cs.pdb

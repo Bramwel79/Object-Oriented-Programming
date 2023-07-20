@@ -1,0 +1,18 @@
+C:\Users\Bram\AppData\Local\Temporary Projects\Restaurant.cs\bin\Debug\Restaurant.cs.exe
+C:\Users\Bram\AppData\Local\Temporary Projects\Restaurant.cs\bin\Debug\Restaurant.cs.pdb
+C:\Users\Bram\AppData\Local\Temporary Projects\Restaurant.cs\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Bram\AppData\Local\Temporary Projects\Restaurant.cs\obj\x86\Debug\Restaurant.cs.Properties.Resources.resources
+C:\Users\Bram\AppData\Local\Temporary Projects\Restaurant.cs\obj\x86\Debug\Restaurant.cs.Restaurant.resources
+C:\Users\Bram\AppData\Local\Temporary Projects\Restaurant.cs\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Bram\AppData\Local\Temporary Projects\Restaurant.cs\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Bram\AppData\Local\Temporary Projects\Restaurant.cs\obj\x86\Debug\Restaurant.cs.exe
+C:\Users\Bram\AppData\Local\Temporary Projects\Restaurant.cs\obj\x86\Debug\Restaurant.cs.pdb
+C:\Users\Bram\documents\visual studio 2010\Projects\Restaurant.cs\Restaurant.cs\obj\x86\Debug\Restaurant.cs.exe
+C:\Users\Bram\documents\visual studio 2010\Projects\Restaurant.cs\Restaurant.cs\obj\x86\Debug\Restaurant.cs.pdb
+C:\Users\Bram\documents\visual studio 2010\Projects\Restaurant.cs\Restaurant.cs\bin\Debug\Restaurant.cs.exe
+C:\Users\Bram\documents\visual studio 2010\Projects\Restaurant.cs\Restaurant.cs\bin\Debug\Restaurant.cs.pdb
+C:\Users\Bram\documents\visual studio 2010\Projects\Restaurant.cs\Restaurant.cs\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Bram\documents\visual studio 2010\Projects\Restaurant.cs\Restaurant.cs\obj\x86\Debug\Restaurant.cs.Properties.Resources.resources
+C:\Users\Bram\documents\visual studio 2010\Projects\Restaurant.cs\Restaurant.cs\obj\x86\Debug\Restaurant.cs.Restaurant.resources
+C:\Users\Bram\documents\visual studio 2010\Projects\Restaurant.cs\Restaurant.cs\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Bram\documents\visual studio 2010\Projects\Restaurant.cs\Restaurant.cs\obj\x86\Debug\GenerateResource.write.1.tlog
