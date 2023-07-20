@@ -1,0 +1,5 @@
+C:\Users\Bram\documents\visual studio 2010\Projects\Credit.cs\Credit.cs\bin\Debug\Credit.cs.exe
+C:\Users\Bram\documents\visual studio 2010\Projects\Credit.cs\Credit.cs\bin\Debug\Credit.cs.pdb
+C:\Users\Bram\documents\visual studio 2010\Projects\Credit.cs\Credit.cs\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Bram\documents\visual studio 2010\Projects\Credit.cs\Credit.cs\obj\x86\Debug\Credit.cs.exe
+C:\Users\Bram\documents\visual studio 2010\Projects\Credit.cs\Credit.cs\obj\x86\Debug\Credit.cs.pdb

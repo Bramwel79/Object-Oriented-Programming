@@ -1,0 +1,5 @@
+C:\Users\Bram\documents\visual studio 2010\Projects\DemoBankEvent.cs\DemoBankEvent.cs\bin\Debug\DemoBankEvent.cs.exe
+C:\Users\Bram\documents\visual studio 2010\Projects\DemoBankEvent.cs\DemoBankEvent.cs\bin\Debug\DemoBankEvent.cs.pdb
+C:\Users\Bram\documents\visual studio 2010\Projects\DemoBankEvent.cs\DemoBankEvent.cs\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Bram\documents\visual studio 2010\Projects\DemoBankEvent.cs\DemoBankEvent.cs\obj\x86\Debug\DemoBankEvent.cs.exe
+C:\Users\Bram\documents\visual studio 2010\Projects\DemoBankEvent.cs\DemoBankEvent.cs\obj\x86\Debug\DemoBankEvent.cs.pdb

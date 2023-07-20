@@ -1,0 +1,5 @@
+C:\Users\Bram\documents\visual studio 2010\Projects\CreateNameFile.cs\CreateNameFile.cs\bin\Debug\CreateNameFile.cs.exe
+C:\Users\Bram\documents\visual studio 2010\Projects\CreateNameFile.cs\CreateNameFile.cs\bin\Debug\CreateNameFile.cs.pdb
+C:\Users\Bram\documents\visual studio 2010\Projects\CreateNameFile.cs\CreateNameFile.cs\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Bram\documents\visual studio 2010\Projects\CreateNameFile.cs\CreateNameFile.cs\obj\x86\Debug\CreateNameFile.cs.exe
+C:\Users\Bram\documents\visual studio 2010\Projects\CreateNameFile.cs\CreateNameFile.cs\obj\x86\Debug\CreateNameFile.cs.pdb
